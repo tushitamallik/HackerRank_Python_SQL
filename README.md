@@ -4,7 +4,7 @@
 
 - **Badges and Certificates:**
 <image src = "https://github.com/user-attachments/assets/b0328a1e-4a2e-4a98-9ec8-24283fe3a7df" width="450" height="350">
-<image src = "https://github.com/user-attachments/assets/6e88459a-7206-492d-9aa9-b659d96e724f" width="450" height="350">
+<image src = "https://github.com/user-attachments/assets/6e88459a-7206-492d-9aa9-b659d96e724f" width="450" height="450">
 
 ## Hackerrank Python and SQL Solutions
 
