@@ -1,8 +1,6 @@
 ## My Hackerrank
 
-![Badges](https://github.com/user-attachments/assets/1ec5b6d7-7a8b-4c7d-a9e0-701c72b24da0)
-
-![Certificates](https://github.com/user-attachments/assets/f01cee3a-4e13-4a14-9a7c-275119aa475d)
+![Badges](https://github.com/user-attachments/assets/1ec5b6d7-7a8b-4c7d-a9e0-701c72b24da0)    ![Certificates](https://github.com/user-attachments/assets/f01cee3a-4e13-4a14-9a7c-275119aa475d)
 
 
 ## Hackerrank Python and SQL Solutions
