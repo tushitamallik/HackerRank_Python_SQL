@@ -3,9 +3,8 @@
 <https://www.hackerrank.com/120180090194862D>
 
 - **Badges and Certificates:**
-<image src = "https://github.com/user-attachments/assets/cff5a7c9-7e91-47c5-83e7-0b00fd5f2e44" width="400" height="350">
-<image src = "https://github.com/user-attachments/assets/31a6cc68-649c-4839-99f1-6380d773a718" width="400" height="350">
-
+<image src = "https://github.com/user-attachments/assets/b0328a1e-4a2e-4a98-9ec8-24283fe3a7df" width="450" height="350">
+<image src = "https://github.com/user-attachments/assets/6e88459a-7206-492d-9aa9-b659d96e724f" width="450" height="350">
 
 ## Hackerrank Python and SQL Solutions
 
